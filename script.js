@@ -15,9 +15,9 @@ incBtn.addEventListener("click", () => {
 });
 
 decBtn.addEventListener("click", () => {
-  if (count > 0){
-    count--;
-    render();
+  if (count > 0) {
+    count--
+    render()
   }
 });
 
